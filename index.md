@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![lena](https://www.researchgate.net/profile/Jacques-Levy-Vehel/publication/224641642/figure/fig3/AS:667633712132098@1536187689388/Original-Lena-and-Door-images-128x128-pixels.ppm)
 
 
 ### Definition lists can be used with HTML syntax.
